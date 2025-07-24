@@ -214,7 +214,7 @@ Where $\alpha$ is the learning rate.
 ### 💾 Installation
 
 ```bash
-git clone https://github.com/<your-username>/Linear-Logistic-Regression-From-Scratch.git
+[git clone https://github.com/<your-username>/Linear-Logistic-Regression-From-Scratch.git](https://github.com/Umair86450/Linear-Logistic-Regression-From-Scratch.git)
 cd Linear-Logistic-Regression-From-Scratch
 pip install jupyter
 jupyter notebook
@@ -241,11 +241,6 @@ Open `Linear_&_Logistic_Regression.ipynb` in the Jupyter interface.
 
 - Designed to be **minimal and educational**
 - Uses **simple, synthetic datasets**
-- You can change `x`, `y`, `x_data`, `y_data` to test other patterns
 - Tune **learning rate** and **epochs** for better performance
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
