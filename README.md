@@ -214,7 +214,7 @@ Where $\alpha$ is the learning rate.
 ### 💾 Installation
 
 ```bash
-[git clone https://github.com/<your-username>/Linear-Logistic-Regression-From-Scratch.git](https://github.com/Umair86450/Linear-Logistic-Regression-From-Scratch.git)
+https://github.com/Umair86450/Linear-Logistic-Regression-From-Scratch.git
 cd Linear-Logistic-Regression-From-Scratch
 pip install jupyter
 jupyter notebook
